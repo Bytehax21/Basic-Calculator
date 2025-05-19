@@ -10,4 +10,4 @@ Performs basic arithmetic with a clean and responsive UI.
 - *Responsive & mobile-friendly design*
 
 ## 🚀 Live Demo  
-[Click here](https://simplecaljs.netlify.app/)
+[Click here](https://basic-calc2.netlify.app/)
